@@ -4,10 +4,10 @@ Uploaders: Niall Walsh <niallwalsh@celtux.org>,
            Alf Gaida <agaida@siduction.org>
 Section: misc
 Priority: extra
-Build-Depends: debhelper (>= 9.20120115)
+Build-Depends: debhelper (>= 10)
 Standards-Version: 3.9.8
-Vcs-Browser: https://github.com/fullstory/fll-live-initramfs
-Vcs-Git: git://github.com/fullstory/fll-live-initramfs.git
+Vcs-Browser: https://github.com/lxlive/fll-live-initramfs
+Vcs-Git: https://github.com/lxlive/fll-live-initramfs.git
 
 Package: fll-live-initramfs
 Architecture: all
